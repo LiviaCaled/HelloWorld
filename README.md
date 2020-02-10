@@ -1,2 +1,3 @@
 # HelloWorld
 MyFirstProject
+Learning Git.
